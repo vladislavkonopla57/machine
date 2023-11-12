@@ -1,0 +1,17 @@
+body {
+  background-image: url("./images/bg_imgs.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrap_for_buttons {
+  margin: 35px 30px;
+}
+
+#info {
+  /* margin-left: 30px;
+  margin-top: 4%; */
+  position: absolute;
+  bottom: 4%;
+  left: 3%;
+}
